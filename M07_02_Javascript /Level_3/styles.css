@@ -1,0 +1,37 @@
+.container {
+    background-color: red;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.container-2 {
+    background-color: none;
+    height: 10vh;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.col {
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    width: 250px;
+}
+
+.title {
+    color: black;
+}
+
+#result {
+    background-color: aqua;
+    height: 80px;
+    margin-top: 20px;
+    padding-left: 60px;
+    border-radius: 5px;
+}
